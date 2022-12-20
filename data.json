@@ -1,0 +1,162 @@
+// {
+//     lastBuildDate: 'Sun, 18 Dec 2022 11:05:56 GMT',
+//     updated: '2022-12-18T11:05:56.137Z',
+//     ttl: 5,
+//     atomlink: 'http:///twitter/user/DIYgod?routeParams=exclude_rts_replies',
+//     title: 'Twitter @DIYgod�',
+//     link: 'https://twitter.com/DIYgod',
+//     image: 'https://pbs.twimg.com/profile_images/1596919720594259971/28xZanDY.jpg',
+//     description: '写代码是热爱，写到世界充满爱！ Building a family with @justjustjustcc. Cofounder of @RSS3_ @_Crossbell. Creator of @_xLog, @Uni
+//   data_, RSSHub, DPlayer. diygod@crossbell',
+//     item: [
+//       {
+//         title: '今天气温降到 -8℃，电力公司恰到好处地涨了波电费 �',
+//         author: 'DIYgod�',
+//         description: '今天气温降到 -8℃，电力公司恰到好处地涨了波电费 �',
+//         pubDate: 'Tue, 13 Dec 2022 15:24:52 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1602685997736755200'
+//       },
+//       {
+//         title: 'Re @szl0834 这东西不都是靠社区破解么，没有哪个官方会出的吧',
+//         author: 'DIYgod�',
+//         description: 'Re @szl0834 这东西不都是靠社区破解么，没有哪个官方会出的吧',
+//         pubDate: 'Sun, 11 Dec 2022 15:42:46 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1601965723198406656'
+//       },
+//       {
+//         title: 'Re @polebug 除了表格体验比 Notion 差很多和无法协作，其他方面都非常舒服',
+//         author: 'DIYgod�',
+//         description: 'Re @polebug 除了表格体验比 Notion 差很多和无法协作，其他方面都非常舒服',
+//         pubDate: 'Sun, 11 Dec 2022 14:16:53 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1601944113385017344'
+//       },
+//       {
+//         title: '小米这路由器 1799 香爆了',
+//         author: 'DIYgod�',
+//         description: '小米这路由器 1799 香爆了<br><img style="" src="https://pbs.twimg.com/media/FjsyNaiXwAAKE6k?format=jpg&amp;name=orig" referr
+//   erpolicy="no-referrer">',
+//         pubDate: 'Sun, 11 Dec 2022 13:18:02 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1601929302840311808'
+//       },
+//       {
+//         title: 'Re @HandsomeHansR 你懂我',
+//         author: 'DIYgod�',
+//         description: 'Re @HandsomeHansR 你懂我',
+//         pubDate: 'Sat, 10 Dec 2022 22:47:17 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1601710170232721408'
+//       },
+//       {
+//         title: '我为什么好心动，我是不是不对劲',
+//         author: 'DIYgod�',
+//         description: '我为什么好心动，我是不是不对劲<br><img style="" src="https://pbs.twimg.com/media/FjpGZmAWIAECrsE?format=jpg&amp;name=orig"
+//   referrerpolicy="no-referrer">',
+//         pubDate: 'Sat, 10 Dec 2022 20:07:46 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1601670027475681281'
+//       },
+//       {
+//         title: '啊啊啊三体动画太好看了！快去看！',
+//         author: 'DIYgod�',
+//         description: '啊啊啊三体动画太好看了！快去看！',
+//         pubDate: 'Sat, 10 Dec 2022 11:36:55 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1601541465641222145'
+//       },
+//       {
+//         title: 'Re @Atlasoin @justjustjustcc',
+//         author: 'DIYgod�',
+//         description: 'Re @Atlasoin @justjustjustcc',
+//         pubDate: 'Sat, 10 Dec 2022 02:13:02 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1601399561636892672'
+//       },
+//       {
+//         title: '发小第二天要考试，压力很大，凌晨一点抱着我哭 边哭边说 这本同人文好虐啊',
+//         author: 'DIYgod�',
+//         description: '发小第二天要考试，压力很大，凌晨一点抱着我哭<br><br>边哭边说<br><br>这本同人文好虐啊',
+//         pubDate: 'Sat, 10 Dec 2022 01:47:52 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1601393227420106752'
+//       },
+//       {
+//         title: 'Re @justjustjustcc 太过分了，不带你玩了',
+//         author: 'DIYgod�',
+//         description: 'Re @justjustjustcc 太过分了，不带你玩了',
+//         pubDate: 'Sat, 10 Dec 2022 01:01:20 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1601381517468762112'
+//       },
+//       {
+//         title: '#チェンソーマン 帕瓦和玛奇玛小姐越来越难选了',
+//         author: 'DIYgod�',
+//         description: '#チェンソーマン 帕瓦和玛奇玛小姐越来越难选了',
+//         pubDate: 'Thu, 08 Dec 2022 10:16:55 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1600796560098742273'
+//       },
+//       {
+//         title: '世界名画《阿里巴巴正在接受批评和建议》',
+//         author: 'DIYgod�',
+//         description: '世界名画《阿里巴巴正在接受批评和建议》<br><img style="" src="https://pbs.twimg.com/media/FjUj7BOWYAARhju?format=jpg&amp;nam
+//   e=orig" referrerpolicy="no-referrer"><br><br>yetone: 好熟练啊<br><br><img style="" src="https://pbs.twimg.com/media/FjRIic2VEAAx2y3?format=jpg&
+//   amp;name=orig" referrerpolicy="no-referrer">',
+//         pubDate: 'Tue, 06 Dec 2022 20:25:28 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1600224929114312704'
+//       },
+//       {
+//         title: 'Re @justjustjustcc 一年搬 40 次家',
+//         author: 'DIYgod�',
+//         description: 'Re @justjustjustcc 一年搬 40 次家',
+//         pubDate: 'Tue, 06 Dec 2022 15:15:04 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1600146813561905153'
+//       },
+//       {
+//         title: "I can't wait!",
+//         author: 'DIYgod�',
+//         description: `I can't wait!<br><br>kepano: Obsidian 1.1 is now available to insiders ✨<br><br>The new Canvas view allows you to organize
+//    notes visually — an infinite space to brainstorm, diagram and lay out your ideas<br><br>Works great for mind maps, flow charts, org charts, m
+//   oodboards, family trees. You can even embed web pages �<br><br><img style="" src="https://pbs.twimg.com/media/FjPHyGuVQAEVeoW?format=jpg&amp;n
+//   ame=orig" referrerpolicy="no-referrer">`,
+//         pubDate: 'Tue, 06 Dec 2022 00:27:50 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1599923533454274560'
+//       },
+//       {
+//         title: 'Re @polebug 建国后不许成精',
+//         author: 'DIYgod�',
+//         description: 'Re @polebug 建国后不许成精',
+//         pubDate: 'Mon, 05 Dec 2022 11:57:47 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1599734780018315264'
+//       },
+//       {
+//         title: 'Re @kruber_morty 看起来不是万能的',
+//         author: 'DIYgod�',
+//         description: 'Re @kruber_morty 看起来不是万能的<br><img style="" src="https://pbs.twimg.com/media/FjNLKuPXgAAVz8I?format=jpg&amp;name=ori
+//   g" referrerpolicy="no-referrer">',
+//         pubDate: 'Mon, 05 Dec 2022 09:59:20 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1599704967727968256'
+//       },
+//       {
+//         title: 'Re @kruber_morty 怎么喂',
+//         author: 'DIYgod�',
+//         description: 'Re @kruber_morty 怎么喂',
+//         pubDate: 'Mon, 05 Dec 2022 01:25:42 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1599575711601545217'
+//       },
+//       {
+//         title: '你学会了么？',
+//         author: 'DIYgod�',
+//         description: '你学会了么？<br><img style="" src="https://pbs.twimg.com/media/FjKSqaaXoAEXt-t?format=jpg&amp;name=orig" referrerpolicy="no
+//   -referrer">',
+//         pubDate: 'Sun, 04 Dec 2022 20:34:38 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1599502459118178304'
+//       },
+//       {
+//         title: '又到了年度计划冲刺月 哦去年没写年终总结啊，那没事了',
+//         author: 'DIYgod�',
+//         description: '又到了年度计划冲刺月<br><br>哦去年没写年终总结啊，那没事了',
+//         pubDate: 'Thu, 01 Dec 2022 19:46:42 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1598403235911532569'
+//       },
+//       {
+//         title: 'Re @EEpLiar 这就去再听一遍！',
+//         author: 'DIYgod�',
+//         description: 'Re @EEpLiar 这就去再听一遍！',
+//         pubDate: 'Thu, 01 Dec 2022 10:21:44 GMT',
+//         link: 'https://twitter.com/DIYgod/status/1598261055935086592'
+//       }
+//     ]
+//   }

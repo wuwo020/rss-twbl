@@ -1,0 +1,24 @@
+{
+  "name": "koishi-plugin-mine-subscribe",
+  "description": "",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.10.6"
+  },
+  "dependencies": {
+    "rsshub": "^1.0.0-master.9ec5d8f"
+  }
+}

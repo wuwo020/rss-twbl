@@ -1,0 +1,68 @@
+{
+  "hash": "72081067",
+  "browserHash": "de925baf",
+  "optimized": {
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "9a8a62a8",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../node_modules/vue-router/dist/vue-router.mjs",
+      "file": "vue-router.js",
+      "fileHash": "fb4e8587",
+      "needsInterop": false
+    },
+    "element-plus": {
+      "src": "../../node_modules/element-plus/es/index.mjs",
+      "file": "element-plus.js",
+      "fileHash": "2b55d30b",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "src": "../../node_modules/@vueuse/core/index.mjs",
+      "file": "@vueuse_core.js",
+      "fileHash": "23b13e33",
+      "needsInterop": false
+    },
+    "@popperjs/core": {
+      "src": "../../node_modules/@popperjs/core/dist/index.mjs",
+      "file": "@popperjs_core.js",
+      "fileHash": "d37ed40e",
+      "needsInterop": false
+    },
+    "d3-force": {
+      "src": "../../node_modules/d3-force/src/index.js",
+      "file": "d3-force.js",
+      "fileHash": "c65e4fcb",
+      "needsInterop": false
+    },
+    "semver": {
+      "src": "../../node_modules/semver/index.js",
+      "file": "semver.js",
+      "fileHash": "66fa101c",
+      "needsInterop": true
+    },
+    "spark-md5": {
+      "src": "../../node_modules/spark-md5/spark-md5.js",
+      "file": "spark-md5.js",
+      "fileHash": "af724175",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-2H4U4UX2": {
+      "file": "chunk-2H4U4UX2.js"
+    },
+    "chunk-BE2XRKD6": {
+      "file": "chunk-BE2XRKD6.js"
+    },
+    "chunk-NBS5D3UL": {
+      "file": "chunk-NBS5D3UL.js"
+    },
+    "chunk-TWLJ45QX": {
+      "file": "chunk-TWLJ45QX.js"
+    }
+  }
+}

@@ -35,3 +35,4 @@ plugins:
     ~adapter-kook:
     ~adapter-feishu:
     gocqhttp:
+  mine-subscribe:
